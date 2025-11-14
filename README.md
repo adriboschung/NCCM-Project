@@ -1,2 +1,2 @@
 # NCCM-Project
-Giovanni Delapasta
+Giovanni Delapasta, Lorenzo Patata, Filipo Linguini
